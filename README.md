@@ -104,6 +104,7 @@
 - [BootstrapVue](https://bootstrap-vue.js.org/) - Bootstrap v4 component and grid system for Vue.js, complete with extensive and automated WAI-ARIA accessibility markup.
 
 ## Accessible projects
+- [Tournant UI](https://github.com/tournantdev/ui) - Inclusive Vue Components
 
 - ...
 
