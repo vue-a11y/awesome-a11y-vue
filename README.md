@@ -44,10 +44,11 @@
 
 #### 2019
 
-- [Vue.jsから考えるアクセシビリティについて](https://yamanoku.net/vue-a11y/)
 - [Accessible Custom Vue.js Select Component Part 1: Simple but Experimental](https://markus.oberlehner.net/blog/accessible-custom-vue-form-select-component-simple-but-experimental/)
 - [Accessible Custom Vue.js Select Component Part 2: Advanced](https://markus.oberlehner.net/blog/accessible-custom-vue-form-select-component-simple-but-advanced/)
 - [Accessible Form Validation Messages with ARIA and Vue.js](https://vuejsdevelopers.com/2019/05/13/accessibility-validation-aria-vuejs/)
+- [Vue.jsから考えるアクセシビリティについて](https://yamanoku.net/vue-a11y/)
+- [Accessible form error auto-focus with Vuelidate in Vue](https://dev.to/marinamosti/accessible-form-error-auto-focus-with-vuelidate-in-vue-4cok)
 
 #### 2018
 
