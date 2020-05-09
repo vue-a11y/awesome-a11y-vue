@@ -85,7 +85,7 @@
 
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
-- [eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
+- [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibilityy) - An [eslint](https://eslint.org/) plugin for checking accessibility rules from within `.vue` files.
 
 ## Accessible libraries
 - [Vuetensils](https://vuetensils.stegosource.com/) - A "naked" component library for building accessible, lightweight, on-brand applications.
