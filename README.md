@@ -71,6 +71,7 @@
 ## Components and plugins
 - [vue-announcer](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 - [vue-skip-to](https://github.com/vue-a11y/vue-skip-to) -  It helps people who only use the keyboard to jump to what matters most.
+- [vue-dark-mode](https://github.com/vue-a11y/vue-dark-mode) -  A component that helps to implement dark mode and other color modes in your Vue application..
 - [vue-accessible-multiselect](https://github.com/vue-a11y/vue-accessible-multiselect) - Vue.js accessible multiselect component made according to WAI-ARIA practices.
 - [vue-a11y-utils](https://github.com/jinjiang/vue-a11y-utils) - Utilities for accessibility (a11y) in Vue.js.
 - [vue-focus-lock](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
@@ -81,7 +82,14 @@
 - [vue-switch-button](https://github.com/marcus-herrmann/vue-switch-button) - Accessible toggle button component for Vue 2.
 - [vue-menu-button](https://github.com/marcus-herrmann/vue-menu-button) - Accessible menu button component for Vue 2, following WAI-ARIA 1.1 authoring practices.
 - [vue-transition-a11y](https://github.com/vanhoofmaarten/vue-transition-a11y) - A extended version of the Vue <transition> component, which takes 'prefers-reduced-motion' in to account.
-- [@trevoreyre/autocomplete-vue](https://github.com/trevoreyre/autocomplete/tree/master/packages/autocomplete-vue) - Accessible autocomplete component Vue.
+- [autocomplete-vue](https://github.com/trevoreyre/autocomplete/tree/master/packages/autocomplete-vue) - Accessible autocomplete component Vue.
+- [focus-trap-vue](https://github.com/posva/focus-trap-vue) - Vue component to trap the focus within a DOM element.
+- [vue-accessibility-toolbar](https://github.com/hendrixfan/vue-accessibility-toolbar) - A Toolbar with Buttons to invert Colors, highlight Links, desaturate and increase Font Size.
+- [vue-a11y-click](https://github.com/swiecaJS/vue-a11y-click) - It helps you handling click events on element which are not natively clickable...
+- [vue-accessible-modal](https://github.com/andrewvasilchuk/vue-accessible-modal) - Vue.js component for accessible modals.
+- [vue-number-input](https://github.com/smwbtech/vue-number-input) - Vue component for numbers input.
+- [vue-accessible-color-picker](https://github.com/kleinfreund/vue-accessible-color-picker) - Accessible color picker component for Vue.js.
+- [vue-autosuggest](https://github.com/darrenjennings/vue-autosuggest) - Vue autosuggest component.
 
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
