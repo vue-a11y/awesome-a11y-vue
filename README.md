@@ -19,6 +19,7 @@
   - [Courses](#courses)
 - [Components and plugins](#components-and-plugins)
   - [Development](#development)
+  - [Vuepress](#development)
 - [Accessible libraries](#accessible-libraries)
 - [Accessible projects](#accessible-projects)
 - [License](#license)
@@ -91,16 +92,20 @@
 - [vue-accessible-color-picker](https://github.com/kleinfreund/vue-accessible-color-picker) - Accessible color picker component for Vue.js.
 - [vue-autosuggest](https://github.com/darrenjennings/vue-autosuggest) - Vue autosuggest component.
 - [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - Vue.js wrapper for `a11y-dialog` .
+- [vue-accessible-tabs](https://github.com/jakedohm/vue-accessible-tabs) - An accessible, unstyled <Tabs> implementation for Vue 2
 
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
 - [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibilityy) - An [eslint](https://eslint.org/) plugin for checking accessibility rules from within `.vue` files.
 
+### Vuepress
+- [vuepress-theme-default-vue-a11y](https://github.com/vue-a11y/vuepress-theme-default-vue-a11y) - Vuepress theme for vue-a11y documentation
+
 ## Accessible libraries
 - [Vuetensils](https://vuetensils.stegosource.com/) - A "naked" component library for building accessible, lightweight, on-brand applications.
 - [Vuetify](https://vuetifyjs.com/en/) - Material Design Component Framework.
 - [BootstrapVue](https://bootstrap-vue.js.org/) - Bootstrap v4 component and grid system for Vue.js, complete with extensive and automated WAI-ARIA accessibility markup.
-- [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - Build scalable and accessible Vue.js applications with ease.
+- [@chakra-ui/vue](https://github.com/chakra-ui/chakra-ui-vue) - Build scalable and accessible Vue.js applications with ease.
 
 ## Accessible projects
 - [Tournant UI](https://github.com/tournantdev/ui) - Inclusive Vue Components
