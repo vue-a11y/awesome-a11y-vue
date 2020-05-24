@@ -90,6 +90,7 @@
 - [vue-number-input](https://github.com/smwbtech/vue-number-input) - Vue component for numbers input.
 - [vue-accessible-color-picker](https://github.com/kleinfreund/vue-accessible-color-picker) - Accessible color picker component for Vue.js.
 - [vue-autosuggest](https://github.com/darrenjennings/vue-autosuggest) - Vue autosuggest component.
+- [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - Vue.js wrapper for `a11y-dialog` .
 
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
