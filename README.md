@@ -93,6 +93,7 @@
 - [vue-autosuggest](https://github.com/darrenjennings/vue-autosuggest) - Vue autosuggest component.
 - [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - Vue.js wrapper for `a11y-dialog` .
 - [vue-accessible-tabs](https://github.com/jakedohm/vue-accessible-tabs) - An accessible, unstyled <Tabs> implementation for Vue 2
+- [vue-toggles](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
