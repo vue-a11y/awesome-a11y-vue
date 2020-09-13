@@ -70,7 +70,6 @@
 - [Web Accessibility Fundamentals (Vueschool)](https://vueschool.io/courses/web-accessibility-fundamentals)
 
 ## Components and plugins
-- [vue-accessibility-list](https://github.com/romulorodrigues/vue-accessibility-list) - An accessibility list for your project with the options: increase / decrease font and high contrast.
 - [@vue-a11y/announcer](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 - [@vue-a11y/skip-to](https://github.com/vue-a11y/vue-skip-to) -  It helps people who only use the keyboard to jump to what matters most.
 - [@vue-a11y/dark-mode](https://github.com/vue-a11y/vue-dark-mode) -  A component that helps to implement dark mode and other color modes in your Vue application..
@@ -95,7 +94,7 @@
 - [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - Vue.js wrapper for `a11y-dialog` .
 - [vue-accessible-tabs](https://github.com/jakedohm/vue-accessible-tabs) - An accessible, unstyled <Tabs> implementation for Vue 2
 - [vue-toggles](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
-
+- [vue-accessibility-list](https://github.com/romulorodrigues/vue-accessibility-list) - An accessibility list for your project with the options: increase / decrease font and high contrast.
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
 - [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibilityy) - An [eslint](https://eslint.org/) plugin for checking accessibility rules from within `.vue` files.
