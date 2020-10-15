@@ -72,7 +72,8 @@
 ## Components and plugins
 - [@vue-a11y/announcer](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 - [@vue-a11y/skip-to](https://github.com/vue-a11y/vue-skip-to) -  It helps people who only use the keyboard to jump to what matters most.
-- [@vue-a11y/dark-mode](https://github.com/vue-a11y/vue-dark-mode) -  A component that helps to implement dark mode and other color modes in your Vue application..
+- [@vue-a11y/dark-mode](https://github.com/vue-a11y/vue-dark-mode) -  A component that helps to implement dark mode and other color modes in your Vue application.
+- [@vue-a11y/vlibras](https://github.com/vue-a11y/vue-vlibras) - Componente Vue.js que ajuda você a implementar o VLibras no seu site.
 - [vue-accessible-multiselect](https://github.com/vue-a11y/vue-accessible-multiselect) - Vue.js accessible multiselect component made according to WAI-ARIA practices.
 - [vue-a11y-utils](https://github.com/jinjiang/vue-a11y-utils) - Utilities for accessibility (a11y) in Vue.js.
 - [vue-focus-lock](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
