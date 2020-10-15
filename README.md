@@ -97,6 +97,7 @@
 - [vue-accessibility-list](https://github.com/romulorodrigues/vue-accessibility-list) - An accessibility list for your project with the options: increase / decrease font and high contrast.
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
+- [vue-axe-next](https://github.com/vue-a11y/vue-axe-next) - Dynamic accessibility analysis for Vue.js 3 using axe-core.
 - [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibilityy) - An [eslint](https://eslint.org/) plugin for checking accessibility rules from within `.vue` files.
 
 ### Vuepress
