@@ -100,7 +100,7 @@
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
 - [vue-axe-next](https://github.com/vue-a11y/vue-axe-next) - Dynamic accessibility analysis for Vue.js 3 using axe-core.
-- [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibilityy) - An [eslint](https://eslint.org/) plugin for checking accessibility rules from within `.vue` files.
+- [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - An [eslint](https://eslint.org/) plugin for checking accessibility rules from within `.vue` files.
 
 ### Vuepress
 - [vuepress-theme-default-vue-a11y](https://github.com/vue-a11y/vuepress-theme-default-vue-a11y) - Vuepress theme for vue-a11y documentation
