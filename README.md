@@ -64,7 +64,7 @@
 
 ### Books
 - [Vue.js: Up and Running: Building Accessible and Performant Web Apps](https://www.amazon.com/Vue-js-Running-Building-Accessible-Performant-ebook/dp/B07B1N6GVC)
-- [Accessible Vue (coming soon)](https://marcus.io/blog/change-of-ebook-plans)
+- [Accessible Vue](https://accessible-vue.com)
 
 ### Courses
 - [Web Accessibility Fundamentals (Vueschool)](https://vueschool.io/courses/web-accessibility-fundamentals)
