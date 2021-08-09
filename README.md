@@ -97,6 +97,7 @@
 - [vue-accessible-tabs](https://github.com/jakedohm/vue-accessible-tabs) - An accessible, unstyled <Tabs> implementation for Vue 2
 - [vue-toggles](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 - [vue-accessibility-list](https://github.com/romulorodrigues/vue-accessibility-list) - An accessibility list for your project with the options: increase / decrease font and high contrast.
+- [vue-visually-hidden](https://github.com/yamanoku/vue-visually-hidden) - Vue.js visually hidden component for Vue 3
 ### Development
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
 - [vue-axe-next](https://github.com/vue-a11y/vue-axe-next) - Dynamic accessibility analysis for Vue.js 3 using axe-core.
